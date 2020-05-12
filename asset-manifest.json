@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/i-math/static/js/main.0d1634f0.chunk.js",
-    "main.js.map": "/i-math/static/js/main.0d1634f0.chunk.js.map",
+    "main.js": "/i-math/static/js/main.9b42279a.chunk.js",
+    "main.js.map": "/i-math/static/js/main.9b42279a.chunk.js.map",
     "runtime-main.js": "/i-math/static/js/runtime-main.1a927077.js",
     "runtime-main.js.map": "/i-math/static/js/runtime-main.1a927077.js.map",
     "static/css/2.e4dcdaa8.chunk.css": "/i-math/static/css/2.e4dcdaa8.chunk.css",
     "static/js/2.e501a6b7.chunk.js": "/i-math/static/js/2.e501a6b7.chunk.js",
     "static/js/2.e501a6b7.chunk.js.map": "/i-math/static/js/2.e501a6b7.chunk.js.map",
     "index.html": "/i-math/index.html",
-    "precache-manifest.82410e70b181594ee6403664ff746e28.js": "/i-math/precache-manifest.82410e70b181594ee6403664ff746e28.js",
+    "precache-manifest.fc439dfcee090cf198ce5b61c9116b48.js": "/i-math/precache-manifest.fc439dfcee090cf198ce5b61c9116b48.js",
     "service-worker.js": "/i-math/service-worker.js",
     "static/css/2.e4dcdaa8.chunk.css.map": "/i-math/static/css/2.e4dcdaa8.chunk.css.map",
     "static/js/2.e501a6b7.chunk.js.LICENSE.txt": "/i-math/static/js/2.e501a6b7.chunk.js.LICENSE.txt",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.1a927077.js",
     "static/css/2.e4dcdaa8.chunk.css",
     "static/js/2.e501a6b7.chunk.js",
-    "static/js/main.0d1634f0.chunk.js"
+    "static/js/main.9b42279a.chunk.js"
   ]
 }
