@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e0d848fd7e7845c04e85aea02d21754",
+    "revision": "8606d6b178e7223bcf8fccc41dbbfbb8",
     "url": "/i-math/index.html"
   },
   {
-    "revision": "0991b7b744e0d4482d08",
+    "revision": "0038b155e8c58675a523",
     "url": "/i-math/static/css/2.e4dcdaa8.chunk.css"
   },
   {
-    "revision": "0991b7b744e0d4482d08",
-    "url": "/i-math/static/js/2.e501a6b7.chunk.js"
+    "revision": "0038b155e8c58675a523",
+    "url": "/i-math/static/js/2.ab52d7c7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/i-math/static/js/2.e501a6b7.chunk.js.LICENSE.txt"
+    "url": "/i-math/static/js/2.ab52d7c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec78af773ea88fc84bd1",
-    "url": "/i-math/static/js/main.9b42279a.chunk.js"
+    "revision": "1766b39490b9674ab6e1",
+    "url": "/i-math/static/js/main.597794f9.chunk.js"
   },
   {
     "revision": "4eedd1860f6cb153d22a",
@@ -32,24 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-math/static/media/arrow.83e14646.svg"
   },
   {
-    "revision": "4e803d167ec0ad57778bd998086bd3d5",
-    "url": "/i-math/static/media/bg-1.4e803d16.jpg"
+    "revision": "e611dffe25854620e8d0d896e0fc71ce",
+    "url": "/i-math/static/media/bg-1.e611dffe.jpg"
   },
   {
-    "revision": "1feb2cbea9274ae8ed92021e3c6ec6e6",
-    "url": "/i-math/static/media/bg-2.1feb2cbe.png"
+    "revision": "3956dfc4528f49e79a873038258e27b6",
+    "url": "/i-math/static/media/bg-2.3956dfc4.jpg"
   },
   {
-    "revision": "5170be6073a165e596eb5a496cb330c3",
-    "url": "/i-math/static/media/bg-3.5170be60.jpg"
+    "revision": "682ae550e8598b43fc96f886b2cea83b",
+    "url": "/i-math/static/media/bg-3.682ae550.jpg"
   },
   {
-    "revision": "bf466692d222267c329a597947db49f1",
-    "url": "/i-math/static/media/bg-4.bf466692.jpg"
+    "revision": "fb44ce7eb46a465785ef9b8f5d82cf73",
+    "url": "/i-math/static/media/bg-4.fb44ce7e.jpg"
   },
   {
-    "revision": "46bdf9bc84bdd36a21d75af1bea40a3f",
-    "url": "/i-math/static/media/bg-5.46bdf9bc.jpg"
+    "revision": "91edb1a0455bf2e2f8b9d5c7108de7d6",
+    "url": "/i-math/static/media/bg-5.91edb1a0.jpg"
   },
   {
     "revision": "bf13e966b427eb957da735490c26a1d9",
