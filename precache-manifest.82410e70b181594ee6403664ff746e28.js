@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d906c7fe02dcda6fab4b759ae04b3523",
+    "revision": "0a0ad3a36bb80a8695d619b4a2e91cdc",
     "url": "/i-math/index.html"
   },
   {
-    "revision": "e3aeb38e24823c007f7d",
+    "revision": "0991b7b744e0d4482d08",
     "url": "/i-math/static/css/2.e4dcdaa8.chunk.css"
   },
   {
-    "revision": "e3aeb38e24823c007f7d",
-    "url": "/i-math/static/js/2.b0b9a742.chunk.js"
+    "revision": "0991b7b744e0d4482d08",
+    "url": "/i-math/static/js/2.e501a6b7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/i-math/static/js/2.b0b9a742.chunk.js.LICENSE.txt"
+    "url": "/i-math/static/js/2.e501a6b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "219be822149ac54474d0",
-    "url": "/i-math/static/js/main.590a5d65.chunk.js"
+    "revision": "292bc0aaaaaf6500e3e0",
+    "url": "/i-math/static/js/main.0d1634f0.chunk.js"
   },
   {
     "revision": "4eedd1860f6cb153d22a",
@@ -60,8 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-math/static/media/google-play-button.938334ff.svg"
   },
   {
-    "revision": "2f9cf69eed0fba005617e17e6bffe021",
-    "url": "/i-math/static/media/i-phone.2f9cf69e.png"
+    "revision": "3b4e60f4898d79f69027b2613b832c81",
+    "url": "/i-math/static/media/iPhoneX.3b4e60f4.png"
+  },
+  {
+    "revision": "5f01fc1e4813dce94246394ea3e0b2e2",
+    "url": "/i-math/static/media/iPhoneX1.5f01fc1e.png"
+  },
+  {
+    "revision": "10b03b9fc82f52e84ebf4a4e90e13e9a",
+    "url": "/i-math/static/media/iPhoneX2.10b03b9f.png"
+  },
+  {
+    "revision": "47cfc2f6328fde57eff78f77eada7a5f",
+    "url": "/i-math/static/media/iPhoneX3.47cfc2f6.png"
   },
   {
     "revision": "8f73722c2ac614f4bac526a372fdc138",
