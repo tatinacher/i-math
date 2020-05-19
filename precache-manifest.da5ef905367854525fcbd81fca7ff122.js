@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d10cc98420c6cb31f99b4e45dd343a23",
+    "revision": "a0b36ac0362a8c5b3c89e0b69ec8246a",
     "url": "/i-math/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-math/static/js/2.e9605165.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc3d0afca82a17bd6008",
-    "url": "/i-math/static/js/main.85ee6a7a.chunk.js"
+    "revision": "f3099ec1f32187d0a14a",
+    "url": "/i-math/static/js/main.d19e8464.chunk.js"
   },
   {
     "revision": "f9901da9bdf3a03f9a97",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-math/static/media/arrow.83e14646.svg"
   },
   {
-    "revision": "e9ef112cdb7598c7bb63f02c138b8949",
-    "url": "/i-math/static/media/asteroid.e9ef112c.png"
+    "revision": "4a728a171908370bbbd424937e86c10d",
+    "url": "/i-math/static/media/asteroid.4a728a17.png"
   },
   {
     "revision": "379468dfd6bc5003a5a1b77e1ee0caeb",
@@ -80,40 +80,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-math/static/media/clouds.bf13e966.svg"
   },
   {
-    "revision": "4c78ff59afd1f2ed50bea66f3bc7b1ff",
-    "url": "/i-math/static/media/cosmonaut.4c78ff59.png"
+    "revision": "3101f79143b36bae780086d7035a5e07",
+    "url": "/i-math/static/media/cosmonaut.3101f791.png"
   },
   {
     "revision": "938334ff94578d2b2be56eeafb77e53e",
     "url": "/i-math/static/media/google-play-button.938334ff.svg"
   },
   {
-    "revision": "3b4e60f4898d79f69027b2613b832c81",
-    "url": "/i-math/static/media/iPhoneX.3b4e60f4.png"
+    "revision": "8d0da6ab9f7d39e0261e477efd03bfdc",
+    "url": "/i-math/static/media/iPhoneX.8d0da6ab.png"
   },
   {
-    "revision": "5f01fc1e4813dce94246394ea3e0b2e2",
-    "url": "/i-math/static/media/iPhoneX1.5f01fc1e.png"
+    "revision": "eee02b0920535e55284b6d8d63bb6504",
+    "url": "/i-math/static/media/iPhoneX1.eee02b09.png"
   },
   {
-    "revision": "10b03b9fc82f52e84ebf4a4e90e13e9a",
-    "url": "/i-math/static/media/iPhoneX2.10b03b9f.png"
+    "revision": "70ac9226290845e46d5bd6d3b516501f",
+    "url": "/i-math/static/media/iPhoneX2.70ac9226.png"
   },
   {
-    "revision": "47cfc2f6328fde57eff78f77eada7a5f",
-    "url": "/i-math/static/media/iPhoneX3.47cfc2f6.png"
+    "revision": "b5ed2d99ff651c2efc5bbc49101060e8",
+    "url": "/i-math/static/media/iPhoneX3.b5ed2d99.png"
   },
   {
-    "revision": "8f73722c2ac614f4bac526a372fdc138",
-    "url": "/i-math/static/media/modal-desktop.8f73722c.png"
-  },
-  {
-    "revision": "b5c292f156807f5355f90b2d902185c2",
-    "url": "/i-math/static/media/modal-tablet.b5c292f1.png"
-  },
-  {
-    "revision": "6dba03cd0df0e2bce59fa2d7f897c08e",
-    "url": "/i-math/static/media/modal.6dba03cd.png"
+    "revision": "8f65d1240c4f55f28d4dd2320f236ca0",
+    "url": "/i-math/static/media/modal-desktop.8f65d124.png"
   },
   {
     "revision": "f178664fc27e0b857556cbe9b98bc127",
