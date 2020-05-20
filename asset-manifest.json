@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/i-math/static/js/main.4747f091.chunk.js",
-    "main.js.map": "/i-math/static/js/main.4747f091.chunk.js.map",
+    "main.js": "/i-math/static/js/main.3c3311c0.chunk.js",
+    "main.js.map": "/i-math/static/js/main.3c3311c0.chunk.js.map",
     "runtime-main.js": "/i-math/static/js/runtime-main.5c435d2c.js",
     "runtime-main.js.map": "/i-math/static/js/runtime-main.5c435d2c.js.map",
     "static/css/2.e4dcdaa8.chunk.css": "/i-math/static/css/2.e4dcdaa8.chunk.css",
-    "static/js/2.e9605165.chunk.js": "/i-math/static/js/2.e9605165.chunk.js",
-    "static/js/2.e9605165.chunk.js.map": "/i-math/static/js/2.e9605165.chunk.js.map",
+    "static/js/2.cbee11f8.chunk.js": "/i-math/static/js/2.cbee11f8.chunk.js",
+    "static/js/2.cbee11f8.chunk.js.map": "/i-math/static/js/2.cbee11f8.chunk.js.map",
     "index.html": "/i-math/index.html",
-    "precache-manifest.7dfc4f885ea37cf203ab2a01dfabced9.js": "/i-math/precache-manifest.7dfc4f885ea37cf203ab2a01dfabced9.js",
+    "precache-manifest.2632b8cd66111924c13a9deec8051c87.js": "/i-math/precache-manifest.2632b8cd66111924c13a9deec8051c87.js",
     "service-worker.js": "/i-math/service-worker.js",
     "static/css/2.e4dcdaa8.chunk.css.map": "/i-math/static/css/2.e4dcdaa8.chunk.css.map",
-    "static/js/2.e9605165.chunk.js.LICENSE.txt": "/i-math/static/js/2.e9605165.chunk.js.LICENSE.txt",
+    "static/js/2.cbee11f8.chunk.js.LICENSE.txt": "/i-math/static/js/2.cbee11f8.chunk.js.LICENSE.txt",
     "static/media/app-store-button.svg": "/i-math/static/media/app-store-button.6e0bd3eb.svg",
     "static/media/arrow.svg": "/i-math/static/media/arrow.83e14646.svg",
     "static/media/asteroid.png": "/i-math/static/media/asteroid.4a728a17.png",
@@ -25,7 +25,7 @@
     "static/media/bg-tablet-3.jpg": "/i-math/static/media/bg-tablet-3.13c40b1d.jpg",
     "static/media/bg-tablet-4.jpg": "/i-math/static/media/bg-tablet-4.76e91ab4.jpg",
     "static/media/bg-tablet-5.jpg": "/i-math/static/media/bg-tablet-5.217c173f.jpg",
-    "static/media/clouds.svg": "/i-math/static/media/clouds.bf13e966.svg",
+    "static/media/clouds.png": "/i-math/static/media/clouds.91af59e4.png",
     "static/media/cosmonaut.png": "/i-math/static/media/cosmonaut.3101f791.png",
     "static/media/google-play-button.svg": "/i-math/static/media/google-play-button.938334ff.svg",
     "static/media/iPhoneX.png": "/i-math/static/media/iPhoneX.8d0da6ab.png",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.5c435d2c.js",
     "static/css/2.e4dcdaa8.chunk.css",
-    "static/js/2.e9605165.chunk.js",
-    "static/js/main.4747f091.chunk.js"
+    "static/js/2.cbee11f8.chunk.js",
+    "static/js/main.3c3311c0.chunk.js"
   ]
 }
