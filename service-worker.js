@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/i-math/understant-not-learn/precache-manifest.7221f0a9fcfc3fea76be51eb32ee9893.js"
+  "/i-math/understant-not-learn/precache-manifest.7970a63b970d9d17d0ae9bea6d38d008.js"
 );
 
 self.addEventListener('message', (event) => {
