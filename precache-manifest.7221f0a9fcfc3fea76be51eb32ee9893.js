@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2f0fcb6953d03fec779efba558727ec",
+    "revision": "b94f3066c4b8ae548ba5d21e66857b00",
     "url": "/i-math/understant-not-learn/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-math/understant-not-learn/static/js/2.0b12cc18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a36dc18440040b256cd2",
-    "url": "/i-math/understant-not-learn/static/js/main.55ad36c3.chunk.js"
+    "revision": "1b325fb2541633c6d138",
+    "url": "/i-math/understant-not-learn/static/js/main.9f8ae129.chunk.js"
   },
   {
     "revision": "d1daa9d9f2c19c4eae2d",
